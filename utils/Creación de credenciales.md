@@ -79,7 +79,7 @@ Necesitarás el **Compartment ID** de `ora26ai` para configurar la aplicación p
 <details>
 <summary>📸 Ver cómo obtener el Compartment ID</summary>
 
-![comparment.png](./utils/images/comparment.png)
+![comparment.png](./images/comparment.png)
 
 </details>
 
