@@ -79,7 +79,7 @@ Necesitarás el **Compartment ID** de `ora26ai` para configurar la aplicación p
 <details>
 <summary>📸 Ver cómo obtener el Compartment ID</summary>
 
-![comparment.png](../08-workshop-rag-with-oracle-db/images/comparment.png)
+![comparment.png](./utils/images/comparment.png)
 
 </details>
 
